@@ -1,6 +1,5 @@
 <script>
   export let events;
-  console.log(events);
 </script>
 
 <h1>Welcome to SvelteKit</h1>
