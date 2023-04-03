@@ -7,7 +7,7 @@
 </script>
 
 <h1>GitHub Activity Tracker</h1>
-<p>Recent `PushEvents` from `@acidtone`: {count}</p>
+<p>Recent <code>PushEvents</code> from <code>@acidtone</code>: {count}</p>
 <p>See console log for raw data.</p>
 <ul>
   {#each data.events as event}
